@@ -1,3 +1,4 @@
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -52,7 +53,7 @@ public class Main {
         calculator.printResult();
         calculator.printiterationsCount();
         calculator.printinaccuracy();
-        calculator.error();
+//        calculator.error();
 //Output the original formula, answer, number of iterations, error analysis, and whether the answer after error analysis is wrong
     }
 
